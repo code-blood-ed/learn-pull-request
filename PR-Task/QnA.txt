@@ -16,4 +16,16 @@ a version then we can push it easily to our repository.
 
 4. SourceForce.
 
-5.There are many advantages but in simple terms its user friendly and provides tracking feature to track every single change in our project and at the same time helps us to deploy our project. and its gives open source working experience for real world scenarios.
+5.There are many advantages but in simple terms its user friendly and provides tracking feature to track every single
+ change in our project and at the same time helps us to deploy our project. and its gives open source working experience 
+for real world scenarios.
+
+Day-2:
+
+1. What do you understand by repository, in context to git?
+2. How does git work? Share with us the workflow in the most precise way possible.
+3. Link of the repository that you created and pushed your project in.
+
+1. A repository is like a folder in a server for us.(couldn't come up with a less short ans).
+2.WorkingPlace->StagingArea->Repository.
+3.Currently working on a project, will share after finishing.
